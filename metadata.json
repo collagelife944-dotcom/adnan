@@ -1,0 +1,6 @@
+{
+  "name": "Adnan PUBG Store",
+  "description": "Trusted PUBG Mobile accounts marketplace with verified stats, instant WhatsApp chat, safe delivery, and full admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
